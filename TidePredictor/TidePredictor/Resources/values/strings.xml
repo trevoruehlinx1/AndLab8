@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TidePredictor</string>
+  <string name="action_settings">Settings</string>
+
+  <string-array name="test_data_array2">
+    <item>
+      <date>2018/01/01</date>
+      <day>Mon</day>
+      <time>12:16 AM</time>
+      <pred_in_ft>6.08</pred_in_ft>
+      <pred_in_cm>185</pred_in_cm>
+      <highlow>H</highlow>
+    </item>
+    <item>
+      <date>2018/01/01</date>
+      <day>Mon</day>
+      <time>05:38 AM</time>
+      <pred_in_ft>2.30</pred_in_ft>
+      <pred_in_cm>70</pred_in_cm>
+      <highlow>L</highlow>
+    </item>
+  </string-array>
+  
+</resources>

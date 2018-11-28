@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidePredictor-Android", "TidePredictor\TidePredictor-Android.csproj", "{9F7E4BA3-BD06-4774-A717-F921C43BA200}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4809882-86EC-4FC8-81CB-E7113A438F18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TidePredictorDataAccess-Library", "TidePredictorDataAccess-Library\TidePredictorDataAccess-Library.csproj", "{CCBCB347-1502-4561-AB03-F2C40A5A1CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidePredictor-Console", "TidePredictor-Console\TidePredictor-Console.csproj", "{D38AFFB9-26AE-405F-9301-6269EFA81D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7E4BA3-BD06-4774-A717-F921C43BA200}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CCBCB347-1502-4561-AB03-F2C40A5A1CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBCB347-1502-4561-AB03-F2C40A5A1CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBCB347-1502-4561-AB03-F2C40A5A1CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBCB347-1502-4561-AB03-F2C40A5A1CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38AFFB9-26AE-405F-9301-6269EFA81D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38AFFB9-26AE-405F-9301-6269EFA81D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38AFFB9-26AE-405F-9301-6269EFA81D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38AFFB9-26AE-405F-9301-6269EFA81D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7917555-1DC0-489B-8AB0-C5F053DBF0CA}
+	EndGlobalSection
+EndGlobal

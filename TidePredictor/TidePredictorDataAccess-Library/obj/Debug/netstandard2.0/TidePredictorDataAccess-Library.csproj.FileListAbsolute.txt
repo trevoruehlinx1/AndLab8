@@ -1,0 +1,13 @@
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\TidePredictorDataAccess-Library.deps.json
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\TidePredictorDataAccess-Library.dll
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\TidePredictorDataAccess-Library.pdb
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.csprojAssemblyReference.cache
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.csproj.CoreCompileInputs.cache
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.AssemblyInfoInputs.cache
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.AssemblyInfo.cs
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.csproj.CopyComplete
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.dll
+C:\Users\Trevor Uehlin\Documents\AndroidSolutions\Lab 7\TidePredictor\TidePredictorDataAccess-Library\obj\Debug\netstandard2.0\TidePredictorDataAccess-Library.pdb
