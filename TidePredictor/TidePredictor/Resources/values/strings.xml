@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TidePredictor</string>
   <string name="action_settings">Settings</string>
+  <string name="permission_not_granted_termininating_app">Permission not granted</string>
+  <string name="ok">Ok</string>
 
   <string-array name="test_data_array2">
     <item>

@@ -449,11 +449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj",
+      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj",
       "projectName": "TidePredictorDataAccess-Library",
-      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj",
+      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj",
       "packagesPath": "C:\\Users\\Trevor Uehlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictorDataAccess-Library\\obj\\",
+      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictorDataAccess-Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

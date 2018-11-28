@@ -26,11 +26,11 @@
         android:layout_below="@id/citySpinner"
         android:id="@+id/textView2"
         android:textAlignment="center"
-        android:layout_marginTop="12.5dp"
+        android:layout_marginTop="0.0dp"
         android:layout_marginLeft="0.0dp" />
     <DatePicker
         android:layout_width="347.5dp"
-        android:layout_height="345.5dp"
+        android:layout_height="227.0dp"
         android:layout_below="@id/textView2"
         android:id="@+id/datePicker"
         android:layout_marginTop="17.0dp"
@@ -38,7 +38,7 @@
         android:minWidth="25px"
         android:minHeight="25px" />
     <Button
-        android:text="Button"
+        android:text="See Tides for selected input"
         android:layout_width="383.5dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/datePicker"
@@ -50,4 +50,45 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/button1"
         android:id="@+id/tideListView" />
+    <TextView
+        android:text="Connecting"
+        android:layout_width="383.0dp"
+        android:layout_height="22.5dp"
+        android:textAlignment="center"
+        android:layout_below="@id/tideListView"
+        android:id="@+id/connectionStatusTextView"
+        android:layout_marginBottom="0.0dp" />
+    <TextView
+        android:text="Get Location?"
+        android:layout_width="383.0dp"
+        android:layout_height="49.0dp"
+        android:textAlignment="center"
+        android:layout_below="@id/connectionStatusTextView"
+        android:id="@+id/locationTextView"
+        android:layout_marginBottom="0.0dp" />
+    <Button
+        android:text="Get Location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/locationTextView"
+        android:id="@+id/locationButton" />
+    <Button
+        android:text="Find Nearest Location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/locationTextView"
+        android:id="@+id/NearestButton"
+        android:layout_marginLeft="186.5dp" />
+    <Button
+        android:text="View Nearest Locations Tides for Today"
+        android:layout_width="382.5dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/locationButton"
+        android:id="@+id/ViewNearestTidesButton" />
+    <Button
+        android:text="Get Last Location"
+        android:layout_width="378.5dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ViewNearestTidesButton"
+        android:id="@+id/lastLocationButton" />
 </RelativeLayout>

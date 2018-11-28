@@ -1114,11 +1114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictor-Console\\TidePredictor-Console.csproj",
+      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictor-Console\\TidePredictor-Console.csproj",
       "projectName": "TidePredictor-Console",
-      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictor-Console\\TidePredictor-Console.csproj",
+      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictor-Console\\TidePredictor-Console.csproj",
       "packagesPath": "C:\\Users\\Trevor Uehlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictor-Console\\obj\\",
+      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictor-Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1137,8 +1137,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj": {
-              "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 7\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj"
+            "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj": {
+              "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab 8\\TidePredictor\\TidePredictorDataAccess-Library\\TidePredictorDataAccess-Library.csproj"
             }
           }
         }
