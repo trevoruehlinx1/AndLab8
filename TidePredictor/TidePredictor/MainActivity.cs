@@ -50,6 +50,7 @@ namespace TidePredictor
             Button viewNearLocationsTidesButton = FindViewById<Button>(Resource.Id.ViewNearestTidesButton);
             viewNearLocationsTidesButton.Enabled = false;
             Button lastLocationButton = FindViewById<Button>(Resource.Id.lastLocationButton);
+            lastLocationButton.Enabled = false;
 
             /* ------ copy and open the dB file using the SQLite-Net ORM ------ */
 
@@ -86,6 +87,7 @@ namespace TidePredictor
             getLocationButton.Click += async delegate
             {
                 viewNearestLocationButton.Enabled = true;
+                lastLocationButton.Enabled = true;
                 if (apiClient.IsConnected)
                 {
                     locationTextView = FindViewById<TextView>(Resource.Id.locationTextView);
@@ -122,10 +124,10 @@ namespace TidePredictor
                     }
                     else
                     {
-                        Location nextLocation = new Location("") { Longitude = city.Longitude, Latitude = city.Latitude };
+                        Location nextLocation = new Location("") { Longitude = c.Longitude, Latitude = c.Latitude };
                         if (currentLocation.DistanceTo(nextLocation) < currentLocation.DistanceTo(closestCityLocation))
                         {
-                            closestCity = city;
+                            closestCity = c;
                             closestCityLocation.Longitude = closestCity.Longitude;
                             closestCityLocation.Latitude = closestCity.Latitude;
                         }
@@ -164,8 +166,9 @@ namespace TidePredictor
             //Get last location
 
             lastLocationButton.Click += delegate {
+                locationTextView.Text = "";
+                viewNearestLocationButton.Enabled = true;
                 Android.Locations.Location location = LocationServices.FusedLocationApi.GetLastLocation(apiClient);
-                var locationTextView = FindViewById<TextView>(Resource.Id.locationTextView);
                 DisplayLocation(location);
             };
 

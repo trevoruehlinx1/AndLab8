@@ -16,8 +16,8 @@ namespace TidePredictorDataAccess_Library
 
         public List<City> AddCities()
         {
-            cities.Add(AddCity("Florence", -124.330117, 43.340111));
-            cities.Add(AddCity("Charleston", -124.103142, 43.974659));
+            cities.Add(AddCity("Charleston", -124.330117, 43.340111));
+            cities.Add(AddCity("Florence", -124.103142, 43.974659));
             cities.Add(AddCity("Toledo", -123.938197, 44.621688));
             cities.Add(AddCity("Umpqua", -124.198472, 43.662296));
 
